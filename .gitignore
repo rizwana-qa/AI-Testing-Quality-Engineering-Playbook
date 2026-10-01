@@ -1,0 +1,15 @@
+# Local working material — kept on disk, not published
+archive/
+
+# OS / editor noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+~$*
+.vscode/
+.idea/
+
+# Secrets (none expected in this repo)
+.env
+.env.*
